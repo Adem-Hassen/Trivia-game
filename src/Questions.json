@@ -1,0 +1,53 @@
+{
+    "questions":[
+        {
+            "question":"What is my favorite food?",
+            "choices":["Rouz jerby","Kaftegy","Makrouna","Couscous"],
+            "correctAnswerIdx":0
+        },
+        {
+            "question":"What is my favorite color",
+            "choices":["Red","Blue","Green","Yellow"],
+            "correctAnswerIdx":0
+        },
+        {
+            "question":"What is my favorite workout day?",
+            "choices":["Chest day","Arm day","Back day","Leg day"],
+            "correctAnswerIdx":3
+        },
+        {
+            "question":"What is my favorite flavor?",
+            "choices":["Strawberry","Banana","Choclate","Vanilla"],
+            "correctAnswerIdx":2
+        },
+        {
+            "question":"What's my favorite genre of music?",
+            "choices":["Rap","Pop","Classic","Jazz"],
+            "correctAnswerIdx":0
+        },
+        {
+            "question":"What is the element that i like the most?",
+            "choices":["Water","Wind","Earth","Fire"],
+            "correctAnswerIdx":3
+        },
+        {
+            "question":"If I could have any superpower, what do I would choose?",
+            "choices":["Teleportation","Superhuman strength","Invisibility","Mind control"],
+            "correctAnswerIdx":0
+        }, {
+            "question":"What type of movies do I enjoy the most?",
+            "choices":["Action/adventure","Romantic comedies","Drama"," Sci-fi/fantasy"],
+            "correctAnswerIdx":2
+        },
+        {
+            "question":"What is my favorite ancient mythologie ?",
+            "choices":["Egyptian mythologie","Ancient Rome mythologie","Greek mythologie","Japanese mythologie"],
+            "correctAnswerIdx":2
+        },
+        {
+            "question":"And now the last question,What is my favorite snack?",
+            "choices":["Protien bars","YOU","Banana","Ships"],
+            "correctAnswerIdx":2
+        }
+    ]
+}
